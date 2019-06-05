@@ -2,12 +2,14 @@
 
 [Munch Dish](http://www.google.com) -> Click to visit site 
 
-An open-source SaaS application that can be integrated to automate all the processes carried out by a restaurant.
+An open-source SaaS application that can be integrated to automate all the processes carried out in a restaurant.
 
+___
 Processes ranging from
 
-[*] Table Reservation
+>Table Reservation
 
-[*] Meal Order (Ticketing)
+>Meal Order (Ticketing)
 
-[*] Payment Automation
+>Payment Automation
+
