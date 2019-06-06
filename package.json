@@ -1,0 +1,19 @@
+{
+  "name": "munchdish",
+  "version": "1.0.0",
+  "description": "An Open Source SaaS Application with extensive features for any type of restaurant",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pilgrim001/Munch-dish-Saas.git"
+  },
+  "author": "Sa'id Bello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pilgrim001/Munch-dish-Saas/issues"
+  },
+  "homepage": "https://github.com/Pilgrim001/Munch-dish-Saas#readme"
+}
