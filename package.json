@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Pilgrim001/Munch-dish-Saas/issues"
   },
-  "homepage": "https://github.com/Pilgrim001/Munch-dish-Saas#readme"
+  "homepage": "https://github.com/Pilgrim001/Munch-dish-Saas#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
