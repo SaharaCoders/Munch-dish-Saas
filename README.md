@@ -19,3 +19,4 @@ Processes ranging from
 
 >Payment Automation
 
+The Major goal of this project is to create a simple and structured system that can be integrated into any restaurant system
